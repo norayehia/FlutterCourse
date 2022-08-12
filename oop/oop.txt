@@ -1,0 +1,44 @@
+hoshclotedevice
+
+Buttons(width,height,ledcolor)
+
+cup
+frame(color,side color)
+
+device ( width,heigth,price,weight,button,count)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////[name,(verb
+
+(start)  system (turn) avaible options in [device] (turnoff)
+making [hotshoclet] based on select[button ]
+
+(warn) if there is no enugh [water] or [hotshoclet] in device
+
+
+
